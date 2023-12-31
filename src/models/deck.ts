@@ -9,7 +9,7 @@ export interface Deck {
 }
 
 export function loadDecks(investigatorId: string): Promise<Deck[]> {
-    return fetch(`${window.location.href}/${investigatorId}.json`)
+    return fetch(`${window.location.href}/decks/${investigatorId}.json`)
         .then(
             (response) => {
                 return response.json();
