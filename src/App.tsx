@@ -2,13 +2,13 @@ import React, { useState } from "react";
 import { Option } from 'react-bootstrap-typeahead/types/types';
 import './App.css';
 import { Typeahead } from 'react-bootstrap-typeahead';
-import { ListGroup, OverlayTrigger, Table, Tooltip } from 'react-bootstrap';
+import { ListGroup, OverlayTrigger, Tooltip } from 'react-bootstrap';
 import { Deck, loadDecks } from './models/deck';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCalendar, faCodeFork, faComment, faHeart, faStar } from '@fortawesome/free-solid-svg-icons';
 
 import { Investigator, loadInvestigatorMap } from './models/investigator';
-import { createRef, useRef } from 'react';
+import { createRef } from 'react';
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 
 function App() {
