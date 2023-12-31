@@ -1,0 +1,642 @@
+[
+  {
+    "id": 20379,
+    "name": "Wendy Adams - Structure Deck Series ( Core Set )",
+    "investigatorId": "01005",
+    "published": "2020-04-01T06:19:51-07:00",
+    "favorites": 389,
+    "likes": 471,
+    "comments": 22,
+    "version": "1.0"
+  },
+  {
+    "id": 238,
+    "name": "Wendy the Scavenger, beat Core alone",
+    "investigatorId": "01005",
+    "published": "2016-12-22T18:28:07-08:00",
+    "favorites": 380,
+    "likes": 468,
+    "comments": 23,
+    "version": "2.0"
+  },
+  {
+    "id": 6939,
+    "name": "Wendy - Turn 2 Cores into a 5 Character Pickup & Play Set",
+    "investigatorId": "01005",
+    "published": "2018-08-22T13:10:17-07:00",
+    "favorites": 353,
+    "likes": 401,
+    "comments": 1,
+    "version": "1.0"
+  },
+  {
+    "id": 35461,
+    "name": "Daredevil Darling (Deck Guide)",
+    "investigatorId": "01005",
+    "published": "2022-01-17T10:32:45-08:00",
+    "favorites": 347,
+    "likes": 398,
+    "comments": 47,
+    "version": "1.0"
+  },
+  {
+    "id": 33945,
+    "name": "Better Starter Decks - Wendy Adams",
+    "investigatorId": "01005",
+    "published": "2021-11-02T14:08:06-07:00",
+    "favorites": 249,
+    "likes": 292,
+    "comments": 0,
+    "version": "2.0"
+  },
+  {
+    "id": 21199,
+    "name": "Wendy Adams - Structure Deck Series ( Dunwich Legacy )",
+    "investigatorId": "01005",
+    "published": "2020-04-13T16:04:14-07:00",
+    "favorites": 153,
+    "likes": 193,
+    "comments": 10,
+    "version": "1.0"
+  },
+  {
+    "id": 43011,
+    "name": "Daredevil Darling 2023 (Deck Update)",
+    "investigatorId": "01005",
+    "published": "2023-05-08T16:47:20-07:00",
+    "favorites": 135,
+    "likes": 178,
+    "comments": 35,
+    "version": "1.0"
+  },
+  {
+    "id": 5300,
+    "name": "To Carcosa and Back - Solo Expert TPTC [Curtain Call]",
+    "investigatorId": "01005",
+    "published": "2018-04-15T17:16:39-07:00",
+    "favorites": 92,
+    "likes": 118,
+    "comments": 2,
+    "version": "1.0"
+  },
+  {
+    "id": 22575,
+    "name": "Wendy Adams - Structure Deck Series ( The Path to Carcosa )",
+    "investigatorId": "01005",
+    "published": "2020-05-13T12:53:20-07:00",
+    "favorites": 91,
+    "likes": 108,
+    "comments": 5,
+    "version": "1.0"
+  },
+  {
+    "id": 622,
+    "name": "The Girl Who Killed Umôrdhoth - Combo Wendy (The Gathering)",
+    "investigatorId": "01005",
+    "published": "2017-03-01T22:34:03-08:00",
+    "favorites": 84,
+    "likes": 106,
+    "comments": 7,
+    "version": "2.0"
+  },
+  {
+    "id": 8191,
+    "name": "Will to Survive Combo Wendy (Expert)",
+    "investigatorId": "01005",
+    "published": "2018-11-20T06:22:32-08:00",
+    "favorites": 68,
+    "likes": 81,
+    "comments": 7,
+    "version": "1.0"
+  },
+  {
+    "id": 4147,
+    "name": "Vive La Branche!",
+    "investigatorId": "01005",
+    "published": "2018-01-03T09:39:42-08:00",
+    "favorites": 49,
+    "likes": 69,
+    "comments": 14,
+    "version": "1.0"
+  },
+  {
+    "id": 236,
+    "name": "Float Like a Butterfly",
+    "investigatorId": "01005",
+    "published": "2016-12-21T11:15:49-08:00",
+    "favorites": 48,
+    "likes": 66,
+    "comments": 3,
+    "version": "1.0"
+  },
+  {
+    "id": 885,
+    "name": "1 Core + Dunwich Series: Wendy",
+    "investigatorId": "01005",
+    "published": "2017-03-29T19:16:44-07:00",
+    "favorites": 43,
+    "likes": 62,
+    "comments": 2,
+    "version": "1.0"
+  },
+  {
+    "id": 35095,
+    "name": "Djinndy Adams (Original, Parallel, and Combinations Guide)",
+    "investigatorId": "01005",
+    "published": "2021-12-30T11:33:37-08:00",
+    "favorites": 48,
+    "likes": 58,
+    "comments": 23,
+    "version": "1.0"
+  },
+  {
+    "id": 675,
+    "name": "Single Core Xp Guide - Wendy",
+    "investigatorId": "01005",
+    "published": "2017-03-10T17:49:37-08:00",
+    "favorites": 47,
+    "likes": 57,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 18565,
+    "name": "Wendy Adams: Who Says She Can't Fight?",
+    "investigatorId": "01005",
+    "published": "2020-01-24T12:15:46-08:00",
+    "favorites": 38,
+    "likes": 55,
+    "comments": 11,
+    "version": "1.0"
+  },
+  {
+    "id": 18565,
+    "name": "Wendy Adams: Who Says She Can't Fight?",
+    "investigatorId": "01005",
+    "published": "2020-01-24T12:15:46-08:00",
+    "favorites": 38,
+    "likes": 55,
+    "comments": 11,
+    "version": "1.0"
+  },
+  {
+    "id": 14838,
+    "name": "Archer Wendy has a clue! (Ornate Bow+Skeleton Key-Updated!)",
+    "investigatorId": "01005",
+    "published": "2019-08-30T07:31:18-07:00",
+    "favorites": 42,
+    "likes": 53,
+    "comments": 4,
+    "version": "1.0"
+  },
+  {
+    "id": 43765,
+    "name": "Wendy Has Nothing Left to Lose|30k Series|Deck Guide",
+    "investigatorId": "01005",
+    "published": "2023-06-30T10:41:46-07:00",
+    "favorites": 27,
+    "likes": 49,
+    "comments": 9,
+    "version": "1.0"
+  },
+  {
+    "id": 20700,
+    "name": "Wendy - The Jammy Dodger (Standalone + Blob Ready)",
+    "investigatorId": "01005",
+    "published": "2020-04-05T11:34:07-07:00",
+    "favorites": 34,
+    "likes": 48,
+    "comments": 7,
+    "version": "1.0"
+  },
+  {
+    "id": 1413,
+    "name": "Solo Wendy on Expert",
+    "investigatorId": "01005",
+    "published": "2017-05-25T18:24:44-07:00",
+    "favorites": 34,
+    "likes": 46,
+    "comments": 3,
+    "version": "1.0"
+  },
+  {
+    "id": 26688,
+    "name": "Abandoned and Alone on Her Own",
+    "investigatorId": "01005",
+    "published": "2020-11-12T04:24:10-08:00",
+    "favorites": 34,
+    "likes": 45,
+    "comments": 18,
+    "version": "1.0"
+  },
+  {
+    "id": 26852,
+    "name": "Pls Nerf ASAP - Infinite Wendy destroys the depths - 39xp",
+    "investigatorId": "01005",
+    "published": "2020-11-21T23:45:53-08:00",
+    "favorites": 38,
+    "likes": 45,
+    "comments": 21,
+    "version": "1.0"
+  },
+  {
+    "id": 5675,
+    "name": "Batman Wendy: The Dark Horse Rises (To The Occasion)",
+    "investigatorId": "01005",
+    "published": "2018-05-20T15:23:32-07:00",
+    "favorites": 15,
+    "likes": 39,
+    "comments": 6,
+    "version": "1.0"
+  },
+  {
+    "id": 40743,
+    "name": "Skill Balanced Starter Decks - Wendy Adams",
+    "investigatorId": "01005",
+    "published": "2022-12-26T21:43:49-08:00",
+    "favorites": 30,
+    "likes": 39,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 71,
+    "name": "Wendy (2 Core, 5 Char, pick up and play - See Note)",
+    "investigatorId": "01005",
+    "published": "2016-11-15T05:47:59-08:00",
+    "favorites": 24,
+    "likes": 38,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 35459,
+    "name": "Cursed Eye Parallel Wendy (Deck Guide)",
+    "investigatorId": "01005",
+    "published": "2022-01-17T08:49:14-08:00",
+    "favorites": 24,
+    "likes": 38,
+    "comments": 3,
+    "version": "1.0"
+  },
+  {
+    "id": 36153,
+    "name": "❄ 2 Packs Deck Guide : Wendy Lovecrafting",
+    "investigatorId": "01005",
+    "published": "2022-03-03T22:54:35-08:00",
+    "favorites": 28,
+    "likes": 37,
+    "comments": 5,
+    "version": "1.0"
+  },
+  {
+    "id": 36153,
+    "name": "❄ 2 Packs Deck Guide : Wendy Lovecrafting",
+    "investigatorId": "01005",
+    "published": "2022-03-03T22:54:35-08:00",
+    "favorites": 28,
+    "likes": 37,
+    "comments": 5,
+    "version": "1.0"
+  },
+  {
+    "id": 11530,
+    "name": "Chaos bag? Never heard of it...",
+    "investigatorId": "01005",
+    "published": "2019-04-27T17:56:03-07:00",
+    "favorites": 27,
+    "likes": 33,
+    "comments": 8,
+    "version": "1.0"
+  },
+  {
+    "id": 36032,
+    "name": "Ratio + Crafty Compass + No Skill + Statball + Black Market",
+    "investigatorId": "01005",
+    "published": "2022-02-23T11:23:32-08:00",
+    "favorites": 21,
+    "likes": 31,
+    "comments": 6,
+    "version": "1.0"
+  },
+  {
+    "id": 14075,
+    "name": "She Will be strong (Expert Wendy, Solo/Multiplayer)",
+    "investigatorId": "01005",
+    "published": "2019-08-01T11:54:09-07:00",
+    "favorites": 25,
+    "likes": 31,
+    "comments": 2,
+    "version": "1.0"
+  },
+  {
+    "id": 701,
+    "name": "Wendy Adams - Eventful Day. (Beginner friendly demo set)",
+    "investigatorId": "01005",
+    "published": "2017-03-13T15:42:26-07:00",
+    "favorites": 24,
+    "likes": 29,
+    "comments": 1,
+    "version": "1.0"
+  },
+  {
+    "id": 4254,
+    "name": "Home Alone Wendy",
+    "investigatorId": "01005",
+    "published": "2018-01-09T14:26:11-08:00",
+    "favorites": 16,
+    "likes": 28,
+    "comments": 2,
+    "version": "1.0"
+  },
+  {
+    "id": 8544,
+    "name": "Wendy Adams: The new Seeker",
+    "investigatorId": "01005",
+    "published": "2018-12-11T16:56:39-08:00",
+    "favorites": 15,
+    "likes": 28,
+    "comments": 17,
+    "version": "1.0"
+  },
+  {
+    "id": 656,
+    "name": "Wendy Fights w/ Card & Coin--Beat Core Solo, Hard Difficulty",
+    "investigatorId": "01005",
+    "published": "2017-03-08T23:22:11-08:00",
+    "favorites": 20,
+    "likes": 26,
+    "comments": 2,
+    "version": "1.0"
+  },
+  {
+    "id": 8420,
+    "name": "Ornate Bow Wendy with Skeleton Key",
+    "investigatorId": "01005",
+    "published": "2018-12-03T11:10:44-08:00",
+    "favorites": 18,
+    "likes": 21,
+    "comments": 6,
+    "version": "1.0"
+  },
+  {
+    "id": 5410,
+    "name": "To Carcosa and Back-Solo Expert TPTC [The Unspeakable Oath]",
+    "investigatorId": "01005",
+    "published": "2018-04-24T22:08:54-07:00",
+    "favorites": 12,
+    "likes": 20,
+    "comments": 3,
+    "version": "1.0"
+  },
+  {
+    "id": 5410,
+    "name": "To Carcosa and Back-Solo Expert TPTC [The Unspeakable Oath]",
+    "investigatorId": "01005",
+    "published": "2018-04-24T22:08:54-07:00",
+    "favorites": 12,
+    "likes": 20,
+    "comments": 3,
+    "version": "1.0"
+  },
+  {
+    "id": 29011,
+    "name": "Wendy moon hits your eye like a big pizzapie that's a-murder",
+    "investigatorId": "01005",
+    "published": "2021-03-01T02:28:24-08:00",
+    "favorites": 13,
+    "likes": 20,
+    "comments": 5,
+    "version": "1.0"
+  },
+  {
+    "id": 2,
+    "name": "Wendy Adams Starter Deck",
+    "investigatorId": "01005",
+    "published": "2016-09-02T06:18:34-07:00",
+    "favorites": 13,
+    "likes": 19,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 7210,
+    "name": "Make Failing Fun",
+    "investigatorId": "01005",
+    "published": "2018-09-16T20:46:52-07:00",
+    "favorites": 16,
+    "likes": 17,
+    "comments": 8,
+    "version": "2.0"
+  },
+  {
+    "id": 5498,
+    "name": "To Carcosa and Back - Solo Expert TPTC [A Phantom of Truth]",
+    "investigatorId": "01005",
+    "published": "2018-05-08T20:15:53-07:00",
+    "favorites": 7,
+    "likes": 16,
+    "comments": 2,
+    "version": "1.0"
+  },
+  {
+    "id": 23074,
+    "name": "Wendy True Solo Deckbuilding Example (Video)",
+    "investigatorId": "01005",
+    "published": "2020-05-26T07:45:14-07:00",
+    "favorites": 11,
+    "likes": 15,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 35850,
+    "name": "¿Has visto a mi madre? ",
+    "investigatorId": "01005",
+    "published": "2022-02-09T16:16:53-08:00",
+    "favorites": 12,
+    "likes": 15,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 11728,
+    "name": "Wendy Picks a Lock while Drawing Thin",
+    "investigatorId": "01005",
+    "published": "2019-05-04T19:09:09-07:00",
+    "favorites": 10,
+    "likes": 15,
+    "comments": 1,
+    "version": "1.0"
+  },
+  {
+    "id": 23074,
+    "name": "Wendy True Solo Deckbuilding Example (Video)",
+    "investigatorId": "01005",
+    "published": "2020-05-26T07:45:14-07:00",
+    "favorites": 11,
+    "likes": 15,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 35850,
+    "name": "¿Has visto a mi madre? ",
+    "investigatorId": "01005",
+    "published": "2022-02-09T16:16:53-08:00",
+    "favorites": 12,
+    "likes": 15,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 35356,
+    "name": "Solo Wendy Adams guide",
+    "investigatorId": "01005",
+    "published": "2022-01-13T12:11:29-08:00",
+    "favorites": 9,
+    "likes": 14,
+    "comments": 1,
+    "version": "1.0"
+  },
+  {
+    "id": 40435,
+    "name": "⌂ 2 Packs Deck Guide : 1 Combat Against All Odds",
+    "investigatorId": "01005",
+    "published": "2022-12-04T17:36:24-08:00",
+    "favorites": 9,
+    "likes": 14,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 35356,
+    "name": "Solo Wendy Adams guide",
+    "investigatorId": "01005",
+    "published": "2022-01-13T12:11:29-08:00",
+    "favorites": 9,
+    "likes": 14,
+    "comments": 1,
+    "version": "1.0"
+  },
+  {
+    "id": 35993,
+    "name": "Wendy Adams True Solo Deck (Version 2.0)",
+    "investigatorId": "01005",
+    "published": "2022-02-20T13:03:55-08:00",
+    "favorites": 11,
+    "likes": 14,
+    "comments": 1,
+    "version": "1.0"
+  },
+  {
+    "id": 8241,
+    "name": "Opportunistic Wendy (Succeed by Two Deck)",
+    "investigatorId": "01005",
+    "published": "2018-11-24T03:13:20-08:00",
+    "favorites": 9,
+    "likes": 12,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 31574,
+    "name": "Wendy has a Backpack [hard]",
+    "investigatorId": "01005",
+    "published": "2021-06-21T22:04:36-07:00",
+    "favorites": 6,
+    "likes": 12,
+    "comments": 2,
+    "version": "2.0"
+  },
+  {
+    "id": 38703,
+    "name": "Wendy Adams (FFG Starter Decklist)",
+    "investigatorId": "01005",
+    "published": "2022-08-17T13:58:57-07:00",
+    "favorites": 12,
+    "likes": 12,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 34987,
+    "name": "Una niña y un martillo",
+    "investigatorId": "01005",
+    "published": "2021-12-26T14:31:33-08:00",
+    "favorites": 10,
+    "likes": 12,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 38703,
+    "name": "Wendy Adams (FFG Starter Decklist)",
+    "investigatorId": "01005",
+    "published": "2022-08-17T13:58:57-07:00",
+    "favorites": 12,
+    "likes": 12,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 2050,
+    "name": "Hard mode guide for Night of the Zealot",
+    "investigatorId": "01005",
+    "published": "2017-07-08T15:17:22-07:00",
+    "favorites": 5,
+    "likes": 11,
+    "comments": 9,
+    "version": "2.0"
+  },
+  {
+    "id": 39170,
+    "name": "Deck du Mois Septembre 2022 - Wendy Limitée",
+    "investigatorId": "01005",
+    "published": "2022-09-21T00:29:07-07:00",
+    "favorites": 5,
+    "likes": 11,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 25225,
+    "name": "[Expert] Wendy Adams, doer of things... FINDER OF CLUES!",
+    "investigatorId": "01005",
+    "published": "2020-09-06T11:47:11-07:00",
+    "favorites": 7,
+    "likes": 11,
+    "comments": 3,
+    "version": "2.0"
+  },
+  {
+    "id": 39170,
+    "name": "Deck du Mois Septembre 2022 - Wendy Limitée",
+    "investigatorId": "01005",
+    "published": "2022-09-21T00:29:07-07:00",
+    "favorites": 5,
+    "likes": 11,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 34193,
+    "name": "Wendy Adams Compass Clues",
+    "investigatorId": "01005",
+    "published": "2021-11-16T15:20:03-08:00",
+    "favorites": 5,
+    "likes": 11,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 39170,
+    "name": "Deck du Mois Septembre 2022 - Wendy Limitée",
+    "investigatorId": "01005",
+    "published": "2022-09-21T00:29:07-07:00",
+    "favorites": 5,
+    "likes": 11,
+    "comments": 0,
+    "version": "1.0"
+  }
+]

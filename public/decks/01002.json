@@ -1,0 +1,542 @@
+[
+  {
+    "id": 101,
+    "name": "Knowledge Overwhelming(Solo Deck)",
+    "investigatorId": "01002",
+    "published": "2016-11-19T23:00:11-08:00",
+    "favorites": 1044,
+    "likes": 1326,
+    "comments": 53,
+    "version": "1.0"
+  },
+  {
+    "id": 6941,
+    "name": "Daisy - Turn 2 Cores into a 5 Character Pickup & Play Set",
+    "investigatorId": "01002",
+    "published": "2018-08-22T13:11:54-07:00",
+    "favorites": 411,
+    "likes": 486,
+    "comments": 3,
+    "version": "1.0"
+  },
+  {
+    "id": 101,
+    "name": "Knowledge Overwhelming(Solo Deck)",
+    "investigatorId": "01002",
+    "published": "2016-11-19T23:00:11-08:00",
+    "favorites": 1044,
+    "likes": 1326,
+    "comments": 53,
+    "version": "1.0"
+  },
+  {
+    "id": 6941,
+    "name": "Daisy - Turn 2 Cores into a 5 Character Pickup & Play Set",
+    "investigatorId": "01002",
+    "published": "2018-08-22T13:11:54-07:00",
+    "favorites": 411,
+    "likes": 486,
+    "comments": 3,
+    "version": "1.0"
+  },
+  {
+    "id": 20817,
+    "name": "Daisy Walker - Structure Deck Series ( Core Set )",
+    "investigatorId": "01002",
+    "published": "2020-04-07T07:33:30-07:00",
+    "favorites": 371,
+    "likes": 454,
+    "comments": 6,
+    "version": "1.0"
+  },
+  {
+    "id": 25285,
+    "name": "Daisy - Duality Necronomicon (Deck Guide)",
+    "investigatorId": "01002",
+    "published": "2020-09-08T05:34:12-07:00",
+    "favorites": 273,
+    "likes": 332,
+    "comments": 12,
+    "version": "1.0"
+  },
+  {
+    "id": 33942,
+    "name": "Better Starter Decks - Daisy Walker",
+    "investigatorId": "01002",
+    "published": "2021-11-02T14:03:34-07:00",
+    "favorites": 275,
+    "likes": 331,
+    "comments": 1,
+    "version": "2.0"
+  },
+  {
+    "id": 21309,
+    "name": "Daisy Walker - Structure Deck Series ( Dunwich Legacy )",
+    "investigatorId": "01002",
+    "published": "2020-04-16T07:56:42-07:00",
+    "favorites": 253,
+    "likes": 311,
+    "comments": 7,
+    "version": "1.0"
+  },
+  {
+    "id": 4263,
+    "name": "Dewey Deci-Spell System - \"Quick Rig\" Hard Mode Daisy",
+    "investigatorId": "01002",
+    "published": "2018-01-10T10:22:52-08:00",
+    "favorites": 165,
+    "likes": 208,
+    "comments": 11,
+    "version": "1.0"
+  },
+  {
+    "id": 41197,
+    "name": "Infinite Knowledge Daisy|20k Series|Deck Guide",
+    "investigatorId": "01002",
+    "published": "2023-01-20T08:17:10-08:00",
+    "favorites": 107,
+    "likes": 178,
+    "comments": 13,
+    "version": "1.0"
+  },
+  {
+    "id": 2481,
+    "name": "Daisy Walker - The Nancy Drew of Arkham",
+    "investigatorId": "01002",
+    "published": "2017-08-04T07:52:48-07:00",
+    "favorites": 130,
+    "likes": 159,
+    "comments": 6,
+    "version": "1.0"
+  },
+  {
+    "id": 780,
+    "name": "1 Core + Dunwich Series: Daisy",
+    "investigatorId": "01002",
+    "published": "2017-03-19T17:55:19-07:00",
+    "favorites": 129,
+    "likes": 152,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 30574,
+    "name": "Daisy Walker - DoomTome Reloaded (Hard Mode)",
+    "investigatorId": "01002",
+    "published": "2021-05-08T10:45:56-07:00",
+    "favorites": 91,
+    "likes": 129,
+    "comments": 31,
+    "version": "1.0"
+  },
+  {
+    "id": 672,
+    "name": "Single Core Xp Guide - Daisy",
+    "investigatorId": "01002",
+    "published": "2017-03-10T17:46:36-08:00",
+    "favorites": 83,
+    "likes": 112,
+    "comments": 1,
+    "version": "1.0"
+  },
+  {
+    "id": 168,
+    "name": "By Book or by Crook: Daisy Walker",
+    "investigatorId": "01002",
+    "published": "2016-12-02T20:17:42-08:00",
+    "favorites": 68,
+    "likes": 93,
+    "comments": 3,
+    "version": "1.0"
+  },
+  {
+    "id": 2695,
+    "name": "By the Book: Daisy Solo through the Dunwich Legacy",
+    "investigatorId": "01002",
+    "published": "2017-09-03T04:34:18-07:00",
+    "favorites": 67,
+    "likes": 81,
+    "comments": 6,
+    "version": "1.0"
+  },
+  {
+    "id": 1036,
+    "name": "Daisy's Big Book of Spells",
+    "investigatorId": "01002",
+    "published": "2017-04-15T10:58:34-07:00",
+    "favorites": 66,
+    "likes": 78,
+    "comments": 4,
+    "version": "1.0"
+  },
+  {
+    "id": 4177,
+    "name": "Please hold for Mr Renfield",
+    "investigatorId": "01002",
+    "published": "2018-01-05T08:10:01-08:00",
+    "favorites": 41,
+    "likes": 56,
+    "comments": 15,
+    "version": "1.0"
+  },
+  {
+    "id": 20081,
+    "name": "Hypertempo Daisy (Deck Guide)",
+    "investigatorId": "01002",
+    "published": "2020-03-26T16:19:58-07:00",
+    "favorites": 46,
+    "likes": 55,
+    "comments": 4,
+    "version": "1.0"
+  },
+  {
+    "id": 18807,
+    "name": "Daisy Walker: Shhhhhh...",
+    "investigatorId": "01002",
+    "published": "2020-02-06T05:21:47-08:00",
+    "favorites": 37,
+    "likes": 54,
+    "comments": 5,
+    "version": "1.0"
+  },
+  {
+    "id": 7168,
+    "name": "Daisy Walker - White Mage (Hard Mode)",
+    "investigatorId": "01002",
+    "published": "2018-09-11T13:54:57-07:00",
+    "favorites": 45,
+    "likes": 54,
+    "comments": 7,
+    "version": "1.0"
+  },
+  {
+    "id": 40740,
+    "name": "Skill Balanced Starter Decks - Daisy Walker",
+    "investigatorId": "01002",
+    "published": "2022-12-26T21:43:01-08:00",
+    "favorites": 42,
+    "likes": 52,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 40612,
+    "name": "[redacted deck]pls ignore",
+    "investigatorId": "01002",
+    "published": "2022-12-17T14:14:06-08:00",
+    "favorites": 32,
+    "likes": 49,
+    "comments": 28,
+    "version": "1.0"
+  },
+  {
+    "id": 34776,
+    "name": "Daisy Walker - Lord of the Tomes",
+    "investigatorId": "01002",
+    "published": "2021-12-15T16:49:43-08:00",
+    "favorites": 27,
+    "likes": 41,
+    "comments": 15,
+    "version": "1.0"
+  },
+  {
+    "id": 39331,
+    "name": "Why Can't I, Hold All These Clues?",
+    "investigatorId": "01002",
+    "published": "2022-10-03T01:33:29-07:00",
+    "favorites": 30,
+    "likes": 41,
+    "comments": 8,
+    "version": "1.0"
+  },
+  {
+    "id": 146,
+    "name": "Overpowering Rats - Mythos Busters Ep. 007 Live Build",
+    "investigatorId": "01002",
+    "published": "2016-11-28T22:38:18-08:00",
+    "favorites": 29,
+    "likes": 39,
+    "comments": 3,
+    "version": "1.0"
+  },
+  {
+    "id": 68,
+    "name": "Daisy (2 Core, 5 Char, pick up and play - See Note)",
+    "investigatorId": "01002",
+    "published": "2016-11-15T03:51:08-08:00",
+    "favorites": 26,
+    "likes": 38,
+    "comments": 5,
+    "version": "1.0"
+  },
+  {
+    "id": 43308,
+    "name": "Disgusting Daisy  | Short Deck Guide | Advanced  Tote Bag",
+    "investigatorId": "01002",
+    "published": "2023-05-26T06:39:31-07:00",
+    "favorites": 17,
+    "likes": 34,
+    "comments": 2,
+    "version": "1.0"
+  },
+  {
+    "id": 35855,
+    "name": "El castigo de Armitage",
+    "investigatorId": "01002",
+    "published": "2022-02-09T16:19:22-08:00",
+    "favorites": 26,
+    "likes": 28,
+    "comments": 0,
+    "version": "2.0"
+  },
+  {
+    "id": 35855,
+    "name": "El castigo de Armitage",
+    "investigatorId": "01002",
+    "published": "2022-02-09T16:19:22-08:00",
+    "favorites": 26,
+    "likes": 28,
+    "comments": 0,
+    "version": "2.0"
+  },
+  {
+    "id": 31876,
+    "name": "Daisy's Book Binding Club",
+    "investigatorId": "01002",
+    "published": "2021-07-07T22:34:57-07:00",
+    "favorites": 18,
+    "likes": 27,
+    "comments": 2,
+    "version": "1.0"
+  },
+  {
+    "id": 31876,
+    "name": "Daisy's Book Binding Club",
+    "investigatorId": "01002",
+    "published": "2021-07-07T22:34:57-07:00",
+    "favorites": 18,
+    "likes": 27,
+    "comments": 2,
+    "version": "1.0"
+  },
+  {
+    "id": 12692,
+    "name": "Daisy Does the Worm",
+    "investigatorId": "01002",
+    "published": "2019-06-17T09:06:32-07:00",
+    "favorites": 18,
+    "likes": 26,
+    "comments": 1,
+    "version": "1.0"
+  },
+  {
+    "id": 35690,
+    "name": "There, in the Middle of the Circle she stands",
+    "investigatorId": "01002",
+    "published": "2022-01-30T01:57:33-08:00",
+    "favorites": 20,
+    "likes": 26,
+    "comments": 2,
+    "version": "1.0"
+  },
+  {
+    "id": 45168,
+    "name": "Daisy is done with being tested!",
+    "investigatorId": "01002",
+    "published": "2023-10-17T15:34:15-07:00",
+    "favorites": 18,
+    "likes": 23,
+    "comments": 2,
+    "version": "1.0"
+  },
+  {
+    "id": 45168,
+    "name": "Daisy is done with being tested!",
+    "investigatorId": "01002",
+    "published": "2023-10-17T15:34:15-07:00",
+    "favorites": 18,
+    "likes": 23,
+    "comments": 2,
+    "version": "1.0"
+  },
+  {
+    "id": 39496,
+    "name": "Kali Daisy, the Many Handed",
+    "investigatorId": "01002",
+    "published": "2022-10-12T09:14:35-07:00",
+    "favorites": 19,
+    "likes": 22,
+    "comments": 4,
+    "version": "1.0"
+  },
+  {
+    "id": 16279,
+    "name": "Emily's Daisy Deck (Carcosa)",
+    "investigatorId": "01002",
+    "published": "2019-10-16T13:04:26-07:00",
+    "favorites": 12,
+    "likes": 21,
+    "comments": 2,
+    "version": "1.0"
+  },
+  {
+    "id": 21648,
+    "name": "Daisy Walker for Newbies (PlayingBoardGames)",
+    "investigatorId": "01002",
+    "published": "2020-04-22T12:53:40-07:00",
+    "favorites": 15,
+    "likes": 21,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 4331,
+    "name": "Daisy Walker - Bookfast",
+    "investigatorId": "01002",
+    "published": "2018-01-14T04:43:05-08:00",
+    "favorites": 14,
+    "likes": 19,
+    "comments": 1,
+    "version": "1.0"
+  },
+  {
+    "id": 9113,
+    "name": "#allyellowallthetime Drawn to the Flame",
+    "investigatorId": "01002",
+    "published": "2019-01-16T14:42:51-08:00",
+    "favorites": 12,
+    "likes": 19,
+    "comments": 3,
+    "version": "1.0"
+  },
+  {
+    "id": 25,
+    "name": "Knowledge is Power (France is Bacon)",
+    "investigatorId": "01002",
+    "published": "2016-10-27T05:17:25-07:00",
+    "favorites": 11,
+    "likes": 17,
+    "comments": 2,
+    "version": "1.0"
+  },
+  {
+    "id": 43394,
+    "name": "Daisy gets Hyperphysical - a HungryColquhoun deck",
+    "investigatorId": "01002",
+    "published": "2023-05-31T00:28:01-07:00",
+    "favorites": 10,
+    "likes": 16,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 40317,
+    "name": "⌂ 2 Packs Deck Guide : Higher Willpower",
+    "investigatorId": "01002",
+    "published": "2022-11-27T22:38:06-08:00",
+    "favorites": 12,
+    "likes": 15,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 37132,
+    "name": "❄ 2 Packs Deck Guide : Guns and Books",
+    "investigatorId": "01002",
+    "published": "2022-05-15T01:51:03-07:00",
+    "favorites": 10,
+    "likes": 15,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 37132,
+    "name": "❄ 2 Packs Deck Guide : Guns and Books",
+    "investigatorId": "01002",
+    "published": "2022-05-15T01:51:03-07:00",
+    "favorites": 10,
+    "likes": 15,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 33184,
+    "name": "Teach your friends! Beginners Daisy Deck - Cluever",
+    "investigatorId": "01002",
+    "published": "2021-09-23T04:24:20-07:00",
+    "favorites": 8,
+    "likes": 14,
+    "comments": 3,
+    "version": "1.0"
+  },
+  {
+    "id": 8488,
+    "name": "Handwritten Memories",
+    "investigatorId": "01002",
+    "published": "2018-12-07T16:44:18-08:00",
+    "favorites": 4,
+    "likes": 13,
+    "comments": 11,
+    "version": "1.0"
+  },
+  {
+    "id": 20004,
+    "name": "Daisy Walker The Exterminator",
+    "investigatorId": "01002",
+    "published": "2020-03-25T10:28:49-07:00",
+    "favorites": 7,
+    "likes": 13,
+    "comments": 3,
+    "version": "1.0"
+  },
+  {
+    "id": 14987,
+    "name": "Daisy and David, Sitting in a Tree, S-H-R-I-V-E-L-L-I-N-G - ",
+    "investigatorId": "01002",
+    "published": "2019-09-03T21:44:15-07:00",
+    "favorites": 7,
+    "likes": 12,
+    "comments": 4,
+    "version": "1.0"
+  },
+  {
+    "id": 38702,
+    "name": "Daisy Walker (FFG Starter Decklist)",
+    "investigatorId": "01002",
+    "published": "2022-08-17T13:58:38-07:00",
+    "favorites": 10,
+    "likes": 12,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 38702,
+    "name": "Daisy Walker (FFG Starter Decklist)",
+    "investigatorId": "01002",
+    "published": "2022-08-17T13:58:38-07:00",
+    "favorites": 10,
+    "likes": 12,
+    "comments": 0,
+    "version": "1.0"
+  },
+  {
+    "id": 36950,
+    "name": "Daisy Walker Does It All [old]",
+    "investigatorId": "01002",
+    "published": "2022-05-04T09:23:45-07:00",
+    "favorites": 9,
+    "likes": 11,
+    "comments": 1,
+    "version": "2.0"
+  },
+  {
+    "id": 36950,
+    "name": "Daisy Walker Does It All [old]",
+    "investigatorId": "01002",
+    "published": "2022-05-04T09:23:45-07:00",
+    "favorites": 9,
+    "likes": 11,
+    "comments": 1,
+    "version": "2.0"
+  }
+]

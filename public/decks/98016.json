@@ -1,0 +1,32 @@
+[
+  {
+    "id": 21182,
+    "name": "Dexter \"Toolbox\" Drake, the Spellslinger",
+    "investigatorId": "98016",
+    "published": "2020-04-13T10:32:11-07:00",
+    "favorites": 49,
+    "likes": 54,
+    "comments": 8,
+    "version": "1.0"
+  },
+  {
+    "id": 21877,
+    "name": "\"Was this your asset?\" Dexter Drake support for TFA",
+    "investigatorId": "98016",
+    "published": "2020-04-27T14:25:43-07:00",
+    "favorites": 14,
+    "likes": 23,
+    "comments": 3,
+    "version": "1.0"
+  },
+  {
+    "id": 22554,
+    "name": "Big Money Dexter (Hard Mode)",
+    "investigatorId": "98016",
+    "published": "2020-05-12T22:59:26-07:00",
+    "favorites": 9,
+    "likes": 13,
+    "comments": 1,
+    "version": "1.0"
+  }
+]

@@ -1,0 +1,60 @@
+#wrapper {
+  width: 960px;
+}
+
+.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6 {
+  color: var(--bs-heading-color);
+  font-weight: 500;
+  line-height: 1.2;
+  margin-bottom: .5rem;
+  margin-top: 0
+}
+
+.highlight {
+  position: relative;
+  padding: 0.75rem 1.5rem;
+  background-color: var(--bs-tertiary-bg)
+}
+
+.deck:hover {
+  color: var(--bs-dropdown-link-hover-color);
+  background-color: var(--bs-dropdown-link-hover-bg);
+  cursor: pointer;
+}
+
+.deck:hover #name {
+  text-decoration: underline;
+}
+
+div[role="tooltip"] {
+  position: fixed;
+}
+
+#likes, #favorites {
+  width: 48px;
+}
+
+#comments {
+  width: 38px;
+}
+
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+#footer {
+  width: 100%;
+}
+
+#github {
+  color: gray;
+  border: none;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+#github:hover {
+  color: rgba(var(--bs-dark-rgb),var(--bs-dark-opacity))!important;
+}

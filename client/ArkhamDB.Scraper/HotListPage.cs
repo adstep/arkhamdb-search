@@ -1,6 +1,7 @@
 ﻿namespace ArkhamDB.Scraper
 {
     using HtmlAgilityPack;
+    using System.Net;
     using System.Text.RegularExpressions;
 
     internal class HotListPage
@@ -32,15 +33,15 @@
 
                 HtmlNode img = row.SelectSingleNode(".//td[1]/img");
                 string image = img.GetAttributeValue("src", null);
-                string cardId = CardIdRegex.Match(image).Groups["cardId"].Value;
+                string investigatorId = CardIdRegex.Match(image).Groups["cardId"].Value;
 
                 HtmlNode a = row.SelectSingleNode(".//td[2]/article/h4/a");
                 string deckLink = a.GetAttributeValue("href", null);
                 int id = int.Parse(IdRegex.Match(deckLink).Groups["id"].Value);
-                string? name = a.InnerText;
+                string? name = WebUtility.HtmlDecode(a.InnerText);
 
                 HtmlNode time = row.SelectSingleNode(".//td[2]/article/h5/time");
-                DateTime createdAt = DateTime.Parse(time.GetAttributeValue("datetime", null));
+                DateTime published = DateTime.Parse(time.GetAttributeValue("datetime", null));
 
 
                 HtmlNode span0 = row.SelectSingleNode(".//*[@id=\"social-icon-like\"]/span[2]");
@@ -59,8 +60,8 @@
                     new Deck(
                         id,
                         name,
-                        cardId,
-                        createdAt,
+                        investigatorId,
+                        published,
                         likes,
                         favorite,
                         comments,

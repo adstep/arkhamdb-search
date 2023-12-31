@@ -1,0 +1,471 @@
+[
+  {
+    "id": "02005",
+    "name": "\u0022Ashcan\u0022 Pete",
+    "subName": "The Drifter",
+    "faction": "survivor",
+    "set": "The Dunwich Legacy 5"
+  },
+  {
+    "id": "01003",
+    "name": "\u0022Skids\u0022 O\u0027Toole",
+    "subName": "The Ex-Con",
+    "faction": "rogue",
+    "set": "Core Set 3"
+  },
+  {
+    "id": "01503",
+    "name": "\u0022Skids\u0022 O\u0027Toole",
+    "subName": "The Ex-Con",
+    "faction": "rogue",
+    "set": "Revised Core Set 3"
+  },
+  {
+    "id": "01004",
+    "name": "Agnes Baker",
+    "subName": "The Waitress",
+    "faction": "mystic",
+    "set": "Core Set 4"
+  },
+  {
+    "id": "01504",
+    "name": "Agnes Baker",
+    "subName": "The Waitress",
+    "faction": "mystic",
+    "set": "Revised Core Set 4"
+  },
+  {
+    "id": "03004",
+    "name": "Akachi Onyele",
+    "subName": "The Shaman",
+    "faction": "mystic",
+    "set": "The Path to Carcosa 4"
+  },
+  {
+    "id": "10009",
+    "name": "Alessandra Zorzi",
+    "subName": "The Countess",
+    "faction": "rogue",
+    "set": "The Feast of Hemlock Vale Investigator Expansion 9"
+  },
+  {
+    "id": "07002",
+    "name": "Amanda Sharpe",
+    "subName": "The Student",
+    "faction": "seeker",
+    "set": "The Innsmouth Conspiracy 2"
+  },
+  {
+    "id": "09011",
+    "name": "Amina Zidane",
+    "subName": "The Operator",
+    "faction": "mystic",
+    "set": "The Scarlet Keys Investigator Expansion 11"
+  },
+  {
+    "id": "08016",
+    "name": "Bob Jenkins",
+    "subName": "The Salesman",
+    "faction": "survivor",
+    "set": "Edge of the Earth Investigator Expansion 16"
+  },
+  {
+    "id": "04005",
+    "name": "Calvin Wright",
+    "subName": "The Haunted",
+    "faction": "survivor",
+    "set": "The Forgotten Age 5"
+  },
+  {
+    "id": "05001",
+    "name": "Carolyn Fern",
+    "subName": "The Psychologist",
+    "faction": "guardian",
+    "set": "The Circle Undone 1"
+  },
+  {
+    "id": "98010",
+    "name": "Carolyn Fern",
+    "subName": "The Psychologist",
+    "faction": "guardian",
+    "set": "To Fight the Black Wind 10"
+  },
+  {
+    "id": "09001",
+    "name": "Carson Sinclair",
+    "subName": "The Butler",
+    "faction": "guardian",
+    "set": "The Scarlet Keys Investigator Expansion 1"
+  },
+  {
+    "id": "09018",
+    "name": "Charlie Kane",
+    "subName": "The Politician",
+    "faction": "neutral",
+    "set": "The Scarlet Keys Investigator Expansion 18"
+  },
+  {
+    "id": "01002",
+    "name": "Daisy Walker",
+    "subName": "The Librarian",
+    "faction": "seeker",
+    "set": "Core Set 2"
+  },
+  {
+    "id": "01502",
+    "name": "Daisy Walker",
+    "subName": "The Librarian",
+    "faction": "seeker",
+    "set": "Revised Core Set 2"
+  },
+  {
+    "id": "08001",
+    "name": "Daniela Reyes",
+    "subName": "The Mechanic",
+    "faction": "guardian",
+    "set": "Edge of the Earth Investigator Expansion 1"
+  },
+  {
+    "id": "09015",
+    "name": "Darrell Simmons",
+    "subName": "The Photographer",
+    "faction": "survivor",
+    "set": "The Scarlet Keys Investigator Expansion 15"
+  },
+  {
+    "id": "07004",
+    "name": "Dexter Drake",
+    "subName": "The Magician",
+    "faction": "mystic",
+    "set": "The Innsmouth Conspiracy 4"
+  },
+  {
+    "id": "05004",
+    "name": "Diana Stanley",
+    "subName": "The Redeemed Cultist",
+    "faction": "mystic",
+    "set": "The Circle Undone 4"
+  },
+  {
+    "id": "04004",
+    "name": "Father Mateo",
+    "subName": "The Priest",
+    "faction": "mystic",
+    "set": "The Forgotten Age 4"
+  },
+  {
+    "id": "04003",
+    "name": "Finn Edwards",
+    "subName": "The Bootlegger",
+    "faction": "rogue",
+    "set": "The Forgotten Age 3"
+  },
+  {
+    "id": "98019",
+    "name": "Gloria Goldberg",
+    "subName": "The Writer",
+    "faction": "mystic",
+    "set": "Dark Revelations 19"
+  },
+  {
+    "id": "60201",
+    "name": "Harvey Walters",
+    "subName": "The Professor",
+    "faction": "seeker",
+    "set": "Harvey Walters 1"
+  },
+  {
+    "id": "60401",
+    "name": "Jacqueline Fine",
+    "subName": "The Psychic",
+    "faction": "mystic",
+    "set": "Jacqueline Fine 1"
+  },
+  {
+    "id": "02003",
+    "name": "Jenny Barnes",
+    "subName": "The Dilettante",
+    "faction": "rogue",
+    "set": "The Dunwich Legacy 3"
+  },
+  {
+    "id": "02004",
+    "name": "Jim Culver",
+    "subName": "The Musician",
+    "faction": "mystic",
+    "set": "The Dunwich Legacy 4"
+  },
+  {
+    "id": "05002",
+    "name": "Joe Diamond",
+    "subName": "The Private Investigator",
+    "faction": "seeker",
+    "set": "The Circle Undone 2"
+  },
+  {
+    "id": "10012",
+    "name": "K\u014Dhaku Narukami",
+    "subName": "The Folklorist",
+    "faction": "mystic",
+    "set": "The Feast of Hemlock Vale Investigator Expansion 12"
+  },
+  {
+    "id": "09008",
+    "name": "Kymani Jones",
+    "subName": "The Security Consultant",
+    "faction": "rogue",
+    "set": "The Scarlet Keys Investigator Expansion 8"
+  },
+  {
+    "id": "04001",
+    "name": "Leo Anderson",
+    "subName": "The Expedition Leader",
+    "faction": "guardian",
+    "set": "The Forgotten Age 1"
+  },
+  {
+    "id": "08010",
+    "name": "Lily Chen",
+    "subName": "The Martial Artist",
+    "faction": "mystic",
+    "set": "Edge of the Earth Investigator Expansion 10"
+  },
+  {
+    "id": "03006",
+    "name": "Lola Hayes",
+    "subName": "The Actress",
+    "faction": "neutral",
+    "set": "The Path to Carcosa 6"
+  },
+  {
+    "id": "06004",
+    "name": "Luke Robinson",
+    "subName": "The Dreamer",
+    "faction": "mystic",
+    "set": "The Dream-Eaters 4"
+  },
+  {
+    "id": "06002",
+    "name": "Mandy Thompson",
+    "subName": "The Researcher",
+    "faction": "seeker",
+    "set": "The Dream-Eaters 2"
+  },
+  {
+    "id": "05006",
+    "name": "Marie Lambeau",
+    "subName": "The Entertainer",
+    "faction": "mystic",
+    "set": "The Circle Undone 6"
+  },
+  {
+    "id": "99001",
+    "name": "Marie Lambeau",
+    "subName": "The Entertainer",
+    "faction": "mystic",
+    "set": "Promo 1"
+  },
+  {
+    "id": "03001",
+    "name": "Mark Harrigan",
+    "subName": "The Soldier",
+    "faction": "guardian",
+    "set": "The Path to Carcosa 1"
+  },
+  {
+    "id": "03002",
+    "name": "Minh Thi Phan",
+    "subName": "The Secretary",
+    "faction": "seeker",
+    "set": "The Path to Carcosa 2"
+  },
+  {
+    "id": "08007",
+    "name": "Monterey Jack",
+    "subName": "The Archaeologist",
+    "faction": "rogue",
+    "set": "Edge of the Earth Investigator Expansion 7"
+  },
+  {
+    "id": "60101",
+    "name": "Nathaniel Cho",
+    "subName": "The Boxer",
+    "faction": "guardian",
+    "set": "Nathaniel Cho 1"
+  },
+  {
+    "id": "08004",
+    "name": "Norman Withers",
+    "subName": "The Astronomer",
+    "faction": "seeker",
+    "set": "Edge of the Earth Investigator Expansion 4"
+  },
+  {
+    "id": "06005",
+    "name": "Patrice Hathaway",
+    "subName": "The Violinist",
+    "faction": "survivor",
+    "set": "The Dream-Eaters 5"
+  },
+  {
+    "id": "05003",
+    "name": "Preston Fairmont",
+    "subName": "The Millionaire",
+    "faction": "rogue",
+    "set": "The Circle Undone 3"
+  },
+  {
+    "id": "02002",
+    "name": "Rex Murphy",
+    "subName": "The Reporter",
+    "faction": "seeker",
+    "set": "The Dunwich Legacy 2"
+  },
+  {
+    "id": "05005",
+    "name": "Rita Young",
+    "subName": "The Athlete",
+    "faction": "survivor",
+    "set": "The Circle Undone 5"
+  },
+  {
+    "id": "01001",
+    "name": "Roland Banks",
+    "subName": "The Fed",
+    "faction": "guardian",
+    "set": "Core Set 1"
+  },
+  {
+    "id": "01501",
+    "name": "Roland Banks",
+    "subName": "The Fed",
+    "faction": "guardian",
+    "set": "Revised Core Set 1"
+  },
+  {
+    "id": "03003",
+    "name": "Sefina Rousseau",
+    "subName": "The Painter",
+    "faction": "rogue",
+    "set": "The Path to Carcosa 3"
+  },
+  {
+    "id": "07005",
+    "name": "Silas Marsh",
+    "subName": "The Sailor",
+    "faction": "survivor",
+    "set": "The Innsmouth Conspiracy 5"
+  },
+  {
+    "id": "07001",
+    "name": "Sister Mary",
+    "subName": "The Nun",
+    "faction": "guardian",
+    "set": "The Innsmouth Conspiracy 1"
+  },
+  {
+    "id": "60501",
+    "name": "Stella Clark",
+    "subName": "The Letter Carrier",
+    "faction": "survivor",
+    "set": "Stella Clark 1"
+  },
+  {
+    "id": "89001",
+    "name": "Subject 5U-21",
+    "subName": "The Anomaly",
+    "faction": "neutral",
+    "set": "The Blob That Ate Everything ELSE! 1"
+  },
+  {
+    "id": "06001",
+    "name": "Tommy Muldoon",
+    "subName": "The Rookie Cop",
+    "faction": "guardian",
+    "set": "The Dream-Eaters 1"
+  },
+  {
+    "id": "06003",
+    "name": "Tony Morgan",
+    "subName": "The Bounty Hunter",
+    "faction": "rogue",
+    "set": "The Dream-Eaters 3"
+  },
+  {
+    "id": "07003",
+    "name": "Trish Scarborough",
+    "subName": "The Spy",
+    "faction": "rogue",
+    "set": "The Innsmouth Conspiracy 3"
+  },
+  {
+    "id": "04002",
+    "name": "Ursula Downs",
+    "subName": "The Explorer",
+    "faction": "seeker",
+    "set": "The Forgotten Age 2"
+  },
+  {
+    "id": "09004",
+    "name": "Vincent Lee",
+    "subName": "The Doctor",
+    "faction": "seeker",
+    "set": "The Scarlet Keys Investigator Expansion 4"
+  },
+  {
+    "id": "01005",
+    "name": "Wendy Adams",
+    "subName": "The Urchin",
+    "faction": "survivor",
+    "set": "Core Set 5"
+  },
+  {
+    "id": "01505",
+    "name": "Wendy Adams",
+    "subName": "The Urchin",
+    "faction": "survivor",
+    "set": "Revised Core Set 5"
+  },
+  {
+    "id": "90037",
+    "name": "Wendy Adams",
+    "subName": "The Urchin",
+    "faction": "survivor",
+    "set": "Red Tide Rising 37"
+  },
+  {
+    "id": "03005",
+    "name": "William Yorick",
+    "subName": "The Gravedigger",
+    "faction": "survivor",
+    "set": "The Path to Carcosa 5"
+  },
+  {
+    "id": "10001",
+    "name": "Wilson Richards",
+    "subName": "The Handyman",
+    "faction": "guardian",
+    "set": "The Feast of Hemlock Vale Investigator Expansion 1"
+  },
+  {
+    "id": "60301",
+    "name": "Winifred Habbamock",
+    "subName": "The Aviatrix",
+    "faction": "rogue",
+    "set": "Winifred Habbamock 1"
+  },
+  {
+    "id": "02001",
+    "name": "Zoey Samaras",
+    "subName": "The Chef",
+    "faction": "guardian",
+    "set": "The Dunwich Legacy 1"
+  },
+  {
+    "id": "90059",
+    "name": "Zoey Samaras",
+    "subName": "The Chef",
+    "faction": "guardian",
+    "set": "Path of the Righteous 59"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 7593,
+    "name": "Mind over Madness",
+    "investigatorId": "98010",
+    "published": "2018-10-18T01:09:33-07:00",
+    "favorites": 50,
+    "likes": 64,
+    "comments": 9,
+    "version": "1.0"
+  },
+  {
+    "id": 6857,
+    "name": "Aggressive therapy with Carolyn Fern",
+    "investigatorId": "98010",
+    "published": "2018-08-18T20:27:51-07:00",
+    "favorites": 20,
+    "likes": 25,
+    "comments": 2,
+    "version": "1.0"
+  },
+  {
+    "id": 8991,
+    "name": "Abandoned and Alone - Where Is My Mind?",
+    "investigatorId": "98010",
+    "published": "2019-01-11T22:09:42-08:00",
+    "favorites": 12,
+    "likes": 16,
+    "comments": 0,
+    "version": "1.0"
+  }
+]
